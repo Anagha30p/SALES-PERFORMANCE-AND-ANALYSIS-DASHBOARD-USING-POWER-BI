@@ -67,5 +67,5 @@ It helps uncover insights and supports data-driven decisions with dynamic visual
 
 * ## 📸 Dashboard Snapshot
 
-![Dashboard Image]( https://github.com/Anagha30p/SALES-PERFORMANCE-AND-ANALYSIS-DASHBOARD-USING-POWER-BI/blob/main/POWER%20BI%20ANAGHA%201.pbix)
+![Dashboard Image](https://github.com/Anagha30p/SALES-PERFORMANCE-AND-ANALYSIS-DASHBOARD-USING-POWER-BI/blob/main/README.md)
 
