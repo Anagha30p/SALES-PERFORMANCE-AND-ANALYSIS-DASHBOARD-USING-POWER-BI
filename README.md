@@ -41,16 +41,7 @@ It helps uncover insights and supports data-driven decisions with dynamic visual
 * ✔️ Region-wise performance mapping
 * ✔️ Clean, professional UI
 
----
 
-## 📸 **Dashboard Preview**
-
-
-```
-![Dashboard Preview](https://github.com/Anagha30p/SALES-PERFORMANCE-AND-ANALYSIS-DASHBOARD-USING-POWER-BI/commit/f88b50ad99941976a67e579793673ee055e57e08)
-```
-
----
 
 ## 🧠 **Insights Delivered**
 
@@ -77,7 +68,8 @@ It helps uncover insights and supports data-driven decisions with dynamic visual
 * Improved storytelling with **data visuals**
 * Gained confidence in **business-oriented dashboarding**
 
+
 * ## 📸 Dashboard Snapshot
 
-![Dashboard Image]()
+![Dashboard Image]( https://github.com/Anagha30p/SALES-PERFORMANCE-AND-ANALYSIS-DASHBOARD-USING-POWER-BI/blob/main/POWER%20BI%20ANAGHA%201.pbix)
 
