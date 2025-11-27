@@ -1,7 +1,3 @@
-Here’s a **creative, visualised, emoji-rich GitHub README** with **tables**, **section dividers**, and a modern style.
-
----
-
 # 🚀 **Sales Performance Dashboard – Power BI Project**
 
 A visually rich, insight-driven dashboard to analyze sales trends and business performance 📊✨
