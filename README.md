@@ -47,7 +47,7 @@ It helps uncover insights and supports data-driven decisions with dynamic visual
 
 
 ```
-![Dashboard Preview]( )
+![Dashboard Preview](README.md)
 ```
 
 ---
