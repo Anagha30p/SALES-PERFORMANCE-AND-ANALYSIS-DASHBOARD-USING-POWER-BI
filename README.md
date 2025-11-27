@@ -76,3 +76,8 @@ It helps uncover insights and supports data-driven decisions with dynamic visual
 * Enhanced skills in **DAX measures**
 * Improved storytelling with **data visuals**
 * Gained confidence in **business-oriented dashboarding**
+
+* ## 📸 Dashboard Snapshot
+
+![Dashboard Image]()
+
