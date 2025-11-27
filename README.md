@@ -45,7 +45,6 @@ It helps uncover insights and supports data-driven decisions with dynamic visual
 
 ## 📸 **Dashboard Preview**
 
-*(Insert your screenshot images here – optional)*
 
 ```
 ![Dashboard Preview]( )
